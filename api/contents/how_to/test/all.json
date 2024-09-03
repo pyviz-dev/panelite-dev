@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.829020Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.417003Z",
+      "mimetype": null,
+      "name": "uitests.ipynb",
+      "path": "how_to/test/uitests.ipynb",
+      "size": 7967,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.829020Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.413003Z",
+      "mimetype": null,
+      "name": "pytest.ipynb",
+      "path": "how_to/test/pytest.ipynb",
+      "size": 8656,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.829020Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.417003Z",
+      "mimetype": null,
+      "name": "loadtests.ipynb",
+      "path": "how_to/test/loadtests.ipynb",
+      "size": 10008,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-09-03T10:34:06.829020Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-09-03T10:34:06.829020Z",
+  "mimetype": null,
+  "name": "test",
+  "path": "how_to/test",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

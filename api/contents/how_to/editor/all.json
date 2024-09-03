@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.801019Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.541003Z",
+      "mimetype": null,
+      "name": "pycharm_configure.ipynb",
+      "path": "how_to/editor/pycharm_configure.ipynb",
+      "size": 3110,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.801019Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.541003Z",
+      "mimetype": null,
+      "name": "markdown.ipynb",
+      "path": "how_to/editor/markdown.ipynb",
+      "size": 3477,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.801019Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.541003Z",
+      "mimetype": null,
+      "name": "vscode_configure.ipynb",
+      "path": "how_to/editor/vscode_configure.ipynb",
+      "size": 5519,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-09-03T10:34:06.801019Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-09-03T10:34:06.801019Z",
+  "mimetype": null,
+  "name": "editor",
+  "path": "how_to/editor",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

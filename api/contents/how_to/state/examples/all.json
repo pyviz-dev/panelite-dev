@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-09-03T10:34:06.821019Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-03T10:33:56.413003Z",
+      "mimetype": null,
+      "name": "sync_url.ipynb",
+      "path": "how_to/state/examples/sync_url.ipynb",
+      "size": 1454,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-09-03T10:34:06.821019Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-09-03T10:34:06.821019Z",
+  "mimetype": null,
+  "name": "examples",
+  "path": "how_to/state/examples",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
